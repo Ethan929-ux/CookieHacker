@@ -1,0 +1,1 @@
+on microsoft edge, go to manage extensions and then go to developer mode and load unpacked and then select the folder and just run the extension on the cookie clicker website: https://orteil.dashnet.org/experiments/cookie/
